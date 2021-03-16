@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "lib/works.js"  ],
+, "lib/works.js", "components/About.js"  ],
   "exclude": [
     "node_modules"
   ]
