@@ -19,7 +19,7 @@ export default function AboutSection()
                 <Button className="btn btn-dark">Contact Me</Button>
             </div>
             <div className={styles.image}>
-                <Image src="/images/profile.jpg" alt="Samuel Bakas" width={648} height={432} className={styles.imgVal}/>
+                <Image priority src="/images/profile.jpg" alt="Samuel Bakas" width={648} height={432} className={styles.imgVal}/>
             </div>
         </div>
     )
