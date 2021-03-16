@@ -10,7 +10,7 @@ export default function WorkSection({ allWorksData })
             <div className={styles.baseDiv} id="work">
 
             <div className={styles.image}>
-                <Image priority src="/images/profile.jpg" alt="Samuel Bakas" width={648} height={432} className={styles.imgVal}/>
+                <Image priority src="/static/images/profile.jpg" alt="Samuel Bakas" width={648} height={432} className={styles.imgVal}/>
             </div>
                 <Container className={styles.mainContainer}>
                     <div className={styles.title}>
